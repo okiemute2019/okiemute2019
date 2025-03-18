@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okiemute2019
 - 👀 I’m interested in mobile and web application development
-- 🌱 I’m currently learning PHP-Laravel Frameworks
+- 🌱 I work with PHP-Laravel Framework
 - 💞️ I’m looking to collaborate on Fintech application development
 - 📫 You can reach me via email okiemutemariere@gmail.com or whatsapp +2348097658310
 
